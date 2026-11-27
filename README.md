@@ -73,3 +73,14 @@ It confirms that every lesson keeps its required sections, every phone number ap
 [WHERE-TO-GO.md](WHERE-TO-GO.md), and every internal link works.
 
 Translations, especially full Kiswahili versions of the lessons, are very welcome.
+
+---
+
+## Licence
+
+© 2026 sagebeme. This course is licensed under the
+[Creative Commons Attribution 4.0 International licence (CC BY 4.0)](LICENSE). You may share and adapt it, for any
+purpose, as long as you give credit and say what you changed.
+
+The Constitution and Acts of Parliament quoted here are Kenyan law. Kenya Law's own website content has its own
+terms: see [kenyalaw.org](https://kenyalaw.org).
