@@ -1,0 +1,15 @@
+# Editor and OS junk
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
+
+# Secrets: never commit
+.env*
+!.env.example
+
+# Python
+__pycache__/
+*.pyc
+.venv/
