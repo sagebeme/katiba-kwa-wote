@@ -73,9 +73,10 @@ made-up characters from that series. Every fact taken from those materials was r
 
 ## What we could not confirm
 
-- **An SMS code for checking voter registration.** Not on IEBC's website. Left out.
-- **The police emergency number.** The National Police Service website didn't load (certificate error). Left out.
-- **Voter registration dates for 2027.** Not published on the IEBC pages we read. Check iebc.or.ke.
-- **Whether any MP or MCA recall has ever been completed.** We found none. Yet to be confirmed.
-- **Whether Parliament replaced the MP recall rules struck down in 2017.** Not confirmed. Ask IEBC.
-- **The final outcome of the Nyandarua fees case.** Not confirmed.
+- **An SMS code for checking voter registration:** we found none on IEBC's website, so the course leaves it out.
+- **The police emergency number:** the National Police Service website didn't load (a certificate error), so we left
+  the number out.
+- **Voter registration dates for 2027:** the IEBC pages we read don't give them. Check iebc.or.ke.
+- **Whether any MP or MCA recall has ever been completed:** we found none, so it stays yet to be confirmed.
+- **Whether Parliament replaced the MP recall rules struck down in 2017:** we couldn't find that it did. Ask IEBC.
+- **The final outcome of the Nyandarua fees case:** we haven't found the final ruling.

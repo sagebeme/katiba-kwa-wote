@@ -74,6 +74,18 @@ It confirms that every lesson keeps its required sections, every phone number ap
 
 Translations, especially full Kiswahili versions of the lessons, are very welcome.
 
+### The website
+
+The same course is published as a website with GitHub Pages, built from these Markdown files into `docs/`. After
+changing a lesson, rebuild it (Python 3 with the `markdown` package):
+
+```bash
+make site
+```
+
+The site's look comes from the author's video series on the Constitution: its colours, its typeface (Noto Serif)
+and its illustrations.
+
 ---
 
 ## Licence
